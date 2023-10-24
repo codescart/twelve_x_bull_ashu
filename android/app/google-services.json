@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474488563477",
+    "project_id": "xbull-967f2",
+    "storage_bucket": "xbull-967f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474488563477:android:3ebe5a9ff7190a24ee6b1c",
+        "android_client_info": {
+          "package_name": "com.game.twelvexbull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474488563477-auri4t8mb957g10tvbnrnag6i551c69f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3cvStrAb_4maFB8ihZHM8kJv52KEpVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474488563477-auri4t8mb957g10tvbnrnag6i551c69f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
